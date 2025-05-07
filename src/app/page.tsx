@@ -10,7 +10,7 @@ export default function Home() {
       <Link href='/about'>
         <Button variant={'default'} className="btn" onClick={() => {
           
-        }}>Hello</Button>
+        }}>Submit</Button>
       </Link>
     </div>
   );
